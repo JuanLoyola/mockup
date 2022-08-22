@@ -1,6 +1,6 @@
 
 unfinished mockup
-<a href='https://mockup-loyola.netlify.app'>live</a>
+<a href='https://mockup-loyola.netlify.app' target="_blank">live</a>
 
 ## Project setup
 ```
